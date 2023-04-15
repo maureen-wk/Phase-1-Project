@@ -7,7 +7,7 @@
 Microsoft Corporation an American technology corporation best-known software products are currently creating a new movie
 studio. They would like a proper analysis done on box office films performance to help in deciding the type of films they should make.
 
-In this analysis, we recommend the genres for consideration after analysis of gross revenue, ratings and viewers votes. The aim of this project is to identify the best performing films in the box office
+In this analysis, we recommend the genres for consideration after analysis of gross revenue, ratings and viewers votes. The aim of this project is to identify the best performing films genres in the box office
 
 ## Data
 
@@ -32,7 +32,7 @@ Our data points include:-
 
 ## Methods of Analysis
 
-This project uses 
+This project uses descriptive analysis
 
 
 ## Results

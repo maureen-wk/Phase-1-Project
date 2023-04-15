@@ -9,7 +9,12 @@ studio. They would like a proper analysis done on box office films performance t
 
 In this analysis, we recommend the genres for consideration after analysis of gross revenue, ratings and viewers votes. The aim of this project is to identify the best performing films genres in the box office
 
-## Data
+### Business Problem
+
+Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio. They need to know which types of films are currently doing the best at the box office, translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help deciding what type of films to create.
+
+
+### Data
 
 In this analysis we will be using data from IMDB and gross revenues. Our data has 11 features in total and 3 categorical and 7 numerical
 The date range of our data is from 2010 to 2018 and total datapoints 3025
@@ -32,18 +37,17 @@ Our data points include:-
 
 ## Methods of Analysis
 
-This project uses descriptive analysis
+This project uses descriptive analysis to determine, the measures of frequency, dispersion, and central tendencies. Exploratory and statistical analysis to see how certain variables may be related, or how certain patterns may be driving others
 
+### Results
 
-## Results
-
-The analysis shows that number of votes have the highest correlation with domestic gross values.
+The analysis shows that the number of votes have the highest correlation of 0.66 with domestic gross values in comparison to other numerica variables.
 
 Therefore, this variable should take precedence to show us which genres will perform better in terms on domestic revenue for the films made.
 
 ![image](https://user-images.githubusercontent.com/127987261/232227821-747626d2-f008-4297-a79d-146b09857b97.png)
 
-## Conclusions
+### Conclusions
 
 Our analysis has shown a number of observations:-
 
@@ -51,7 +55,7 @@ Movies tend to produce higher revenues in foreign markets as oppoed to domestic 
 
 Movies with high number of votes tend to have greater gross revenues
 
-## Recommendations
+### Recommendations
 
 The most common genres considering different variables shows that Adventure, Drama, Sci-Fi, Action are good performing genres
 
@@ -61,11 +65,11 @@ For good ratings best genres to make are Adventure and Action/Sport
 
 For higher votes best genres to make are Adventure/Drama/Sci-Fi and Adventure/Mystery/Sci-Fi
 
-## Next Steps
+### Next Steps
 
-We need to consider more factors that may pose substantial influence on the success of films
+We need to consider more factors that may pose substantial influence on the successes of films and understand their impact.
 
-This include;-
+This will include;-
 
 1. Actors/Directors
 

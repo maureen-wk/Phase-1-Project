@@ -35,7 +35,7 @@ Our data points include:-
 
 **numvotes** - viewers numbered votes
 
-## Methods of Analysis
+### Methods of Analysis
 
 This project uses descriptive analysis to determine, the measures of frequency, dispersion, and central tendencies. Exploratory and statistical analysis to see how certain variables may be related, or how certain patterns may be driving others
 

@@ -43,6 +43,9 @@ This project uses descriptive analysis to determine, the measures of frequency, 
 
 The analysis shows that the number of votes have the highest correlation of 0.66 with domestic gross values in comparison to other numerica variables.
 
+![image](https://user-images.githubusercontent.com/127987261/232247571-08f5bfc3-29ad-40c9-bdf3-5e1131e04df5.png)
+
+
 Therefore, this variable should take precedence to show us which genres will perform better in terms on domestic revenue for the films made.
 
 ![image](https://user-images.githubusercontent.com/127987261/232227821-747626d2-f008-4297-a79d-146b09857b97.png)
